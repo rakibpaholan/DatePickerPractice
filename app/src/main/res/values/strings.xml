@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DatepickerDailouge</string>
+    <string name="dmy">Date/Month/Year</string>
+    <string name="calender">Click for Calender</string>
+</resources>
